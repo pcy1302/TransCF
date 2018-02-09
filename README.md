@@ -1,4 +1,4 @@
-)# Translational Collaborative Metric Learning (TransCF)
+# Translational Collaborative Metric Learning (TransCF)
 
 ### Overview
 > Recently, matrix factorization-based recommendation methods have been criticized for the problem raised by the triangle inequality violation. Although several metric learning-based approaches have been proposed to overcome this issue, existing approaches typically project each user to a single point in the metric space, and thus do not suffice to properly model the *intensity* and the *heterogeneity* of user-item relationships of implicit feedback. In this paper, we propose TransCF to discover such latent user-item relationships embodied in implicit user-item interactions. Inspired by the translation mechanism popularized by knowledge graph embedding, we construct user-item specific translation vectors by employing the neighborhood information of users and items, and translate each user towards items regarding the user's relationships with the items.
@@ -44,7 +44,7 @@ You can evaluate TransCF with different settings. Below is a description of all 
 
 
 ### Reproducing the experiments
-- [Tables 4 and 6](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb
+- [Tables 4 and 6](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb)
 - Table 5 and 7, Figures 4 and 5
   - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb)
   - [Amazon C&A dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb)
