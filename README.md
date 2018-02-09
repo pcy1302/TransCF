@@ -43,7 +43,7 @@ You can evaluate TransCF with different settings. Below is a description of all 
 - --early_stop : 'Early stop iteration.'
 
 
-### Reproducing the experiments
+### Reproducing the qualitative experiments
 - [Tables 4 and 6](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb)
 - Table 5 and 7, Figures 4 and 5
   - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb)
