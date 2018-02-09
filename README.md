@@ -46,6 +46,6 @@ You can evaluate TransCF with different settings. Below is a description of all 
 ### Reproducing the experiments
 - [Tables 4 and 6](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb)
 - Table 5 and 7, Figures 4 and 5
-  - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb)
-  - [Amazon C&A dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb)
+  - [Ciao dataset](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb)
+  - [Amazon C&A dataset](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb)
 
