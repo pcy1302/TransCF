@@ -5,8 +5,8 @@
 
 ### Paper
 - Translational Collaborative Metric Learning (*KDD 2018 submitted*)
-  - [_**Chanyoung Park**_](http://di.postech.ac.kr/~pcy1302){:target="_blank"}, Donghyun Kim, Xing Xie, Hwanjo Yu
-- Please refer to our [website](http://di.postech.ac.kr/TransCF){:target="_blank"} for more detail.
+  - [_**Chanyoung Park**_](http://di.postech.ac.kr/~pcy1302), Donghyun Kim, Xing Xie, Hwanjo Yu
+- Please refer to our [website](http://di.postech.ac.kr/TransCF) for more detail.
 
 ### Requirements
 
@@ -44,8 +44,8 @@ You can evaluate TransCF with different settings. Below is a description of all 
 
 
 ### Reproducing the experiments
-- [Tables 4 and 6](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb){:target="_blank"}
+- [Tables 4 and 6](https://nbviewer.jupyter.org/github/pcy1302/TransCF/blob/master/Qualitative_Intensity_Table_4_6.ipynb
 - Table 5 and 7, Figures 4 and 5
-  - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb){:target="_blank"}
-  - [Amazon C&A dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb){:target="_blank"}
+  - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb)
+  - [Amazon C&A dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb)
 
