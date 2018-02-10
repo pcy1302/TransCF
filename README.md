@@ -13,7 +13,9 @@
 - Python version: 2.7
 - Pytorch version: 0.4.0a0+669a99b
 - fastrand (Fast random number generation in Python)
-  - [See installation instructions](https://github.com/pcy1302/fastrand){:target="_blank"}
+  - [See installation instructions](https://github.com/pcy1302/fastrand)
+- Multicore-TSNE (only required for t-SNE visualization)
+  - [See installation instructions](https://github.com/pcy1302/Multicore-TSNE)
   
 
 ### How to Run
