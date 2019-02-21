@@ -5,7 +5,7 @@
 
 ### Paper
 - Translational Collaborative Metric Learning (*ICDM 2018*)
-  - [_**Chanyoung Park**_](http://di.postech.ac.kr/~pcy1302), Donghyun Kim, Xing Xie, Hwanjo Yu
+  - [_**Chanyoung Park**_](http://pcy1302.github.io), Donghyun Kim, Xing Xie, Hwanjo Yu
 
 ### Requirements
 
