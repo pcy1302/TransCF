@@ -57,3 +57,17 @@ You can evaluate TransCF with different settings. Below is a description of all 
   - [Ciao dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Ciao.ipynb) 
   - [Amazon C&A dataset](https://github.com/pcy1302/TransCF/blob/master/Qualitative_Amazon.ipynb)
 
+### Cite (Bibtex)
+- If you find ``TransCF`` useful in your research, please cite the following paper:
+  - Park, Chanyoung, et al. "Collaborative translational metric learning." 2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018.
+  - Bibtex
+```
+@inproceedings{park2018collaborative,
+  title={Collaborative translational metric learning},
+  author={Park, Chanyoung and Kim, Donghyun and Xie, Xing and Yu, Hwanjo},
+  booktitle={2018 IEEE International Conference on Data Mining (ICDM)},
+  pages={367--376},
+  year={2018},
+  organization={IEEE}
+}
+```
